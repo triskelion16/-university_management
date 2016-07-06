@@ -1,2 +1,2 @@
-# -university_management
+# university_management
 Java - console application
